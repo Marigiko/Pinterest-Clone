@@ -6,12 +6,12 @@ OBJETIVO:
 
 PROCESO:
 1.	CREACIÓN DE HTML:
-•	Crear un componente NavBar que este contenido por una etiqueta Header
-•	Incorporar en el mismo cada uno de los botones necesarios
-•	Incorporar un SearchBar dentro del NavBar, este SearchBar debe de contener las siguientes secciones: Búsquedas recientes, Ideas para ti, Populares en Pinterest.  Dichas secciones tienen que estar a priori vacias.
-•	Crear el botón con un icono de interrogación el cual debe tener dentro una etiqueta Footer con todos los links y textos de derechos reservados de la pagina.
-•	Por ultimo tenemos que crear un componente que se va a repetir en toda la pagina, este componente será un contenedor llamado Card el cual debe tener dentro una etiqueta img para la imagen y 3 botones que se mostraran solo cuando el ratón este encima de la card.
-•	Los 3 botones serán: Guardar, Compartir, Mas Opciones.
+a.	Crear un componente NavBar que este contenido por una etiqueta Header
+b.	Incorporar en el mismo cada uno de los botones necesarios
+c.	Incorporar un SearchBar dentro del NavBar, este SearchBar debe de contener las siguientes secciones: Búsquedas recientes, Ideas para ti, Populares en Pinterest.  Dichas secciones tienen que estar a priori vacias.
+d.	Crear el botón con un icono de interrogación el cual debe tener dentro una etiqueta Footer con todos los links y textos de derechos reservados de la pagina.
+e.	Por ultimo tenemos que crear un componente que se va a repetir en toda la pagina, este componente será un contenedor llamado Card el cual debe tener dentro una etiqueta img para la imagen y 3 botones que se mostraran solo cuando el ratón este encima de la card.
+f.	Los 3 botones serán: Guardar, Compartir, Mas Opciones.
 
 2.	CREACIÓN DE CSS (OPCIONAL BOOTSTRAP):
 •	Las cajas deben de tener todas el mismo ancho (width) y la altura (heigth) debe de ser calculada respecto a la escala de la imagen.
